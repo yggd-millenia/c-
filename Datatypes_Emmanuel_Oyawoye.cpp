@@ -1,6 +1,7 @@
 /*Oyawoye Emmanuel , progrogramming fundamentals section 2 , visual studio code 
 This code is aimed at being able to receive input of any number of pennies a user has and processing that amount into monetary units.
 I.e dollars, quarters ,dimes, nickels and pennies.
+github repo - https://github.com/yggd-millenia/programming
 */
 #include <iostream>
 using namespace std;
